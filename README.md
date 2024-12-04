@@ -78,8 +78,8 @@
 
    | 浏览器 | 下载链接 |
    |--------|----------|
-   | Edge   | [驱动下载链接](https://msedgewebdriverstorage.z22.web.core.windows.net/?form=MA13LH) |
-   | Chrome | [驱动下载链接](https://chromedriver.storage.googleapis.com/index.html) |
+   | Edge   | <a href="https://msedgewebdriverstorage.z22.web.core.windows.net/?form=MA13LH" target="_blank" rel="noopener noreferrer">驱动下载链接</a> |
+   | Chrome | <a href="https://chromedriver.storage.googleapis.com/index.html" target="_blank" rel="noopener noreferrer">驱动下载链接</a> |
 
    <img src="https://gitee.com/xmjoywm/iamge/raw/master/oywm/iamge/20241205011210.png" alt="选择驱动版本" width="300"/>
 
