@@ -1,4 +1,4 @@
-# 北大青鸟云题库刷题辅助工具 🚀
+# 北大青鸟云题库自动刷题 🚀
 
 ![项目Logo](https://gitee.com/xmjoywm/iamge/raw/master/oywm/iamge/tiku-UltqdYhF.svg)
 
