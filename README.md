@@ -1,6 +1,6 @@
-# 北大青鸟云题库自动刷题 🚀
+# 北大青鸟云题库刷题辅助工具 🚀
 
-![项目Logo](https://gitee.com/xmjoywm/iamge/raw/master/oywm/iamge/tiku-UltqdYhF.svg)
+![项目Logo](https://gitee.com/ouywm/iamge/raw/master/oywm/iamge/tiku-UltqdYhF.svg)
 
 ## 📚 目录
 
@@ -32,7 +32,7 @@
 
 - ✅ 自动刷题
 - 📊 查看刷题历史记录
-- 🚧 自动考试（开发中，敬请期待！以后会做的！）
+- 🚧 自动考试（开发中，敬请期待！）
 
 
 
@@ -70,7 +70,7 @@
 
    ![查看浏览器版本](https://gitee.com/xmjoywm/iamge/raw/master/oywm/iamge/20241205010702.png)
 
-2. 打开 `msedgedriver.exe` 文件，确认版本信息：
+2. 打开 `bin/resolution.properties` 文件，确认版本信息：
 
    ![确认版本信息](https://gitee.com/xmjoywm/iamge/raw/master/oywm/iamge/20241205010734.png)
 
@@ -78,8 +78,8 @@
 
    | 浏览器 | 下载链接 |
    |--------|----------|
-   | Edge   | <a href="https://msedgewebdriverstorage.z22.web.core.windows.net/?form=MA13LH" target="_blank" rel="noopener noreferrer">驱动下载链接</a> |
-   | Chrome | <a href="https://chromedriver.storage.googleapis.com/index.html" target="_blank" rel="noopener noreferrer">驱动下载链接</a> |
+   | Edge   | [驱动下载链接](https://msedgewebdriverstorage.z22.web.core.windows.net/?form=MA13LH) |
+   | Chrome | [驱动下载链接](https://chromedriver.storage.googleapis.com/index.html) |
 
    <img src="https://gitee.com/xmjoywm/iamge/raw/master/oywm/iamge/20241205011210.png" alt="选择驱动版本" width="300"/>
 
